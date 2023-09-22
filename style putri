@@ -1,0 +1,13 @@
+/* Belajar mengenai text styling */
+
+h1 {
+	font-size: 150px;
+	volor: rgb(115,80,212);
+}
+
+p {
+	text-indent: 100px
+	text-transform: capitalize;
+}
+
+a { text-decoration: none; }
